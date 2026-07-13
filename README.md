@@ -1,4 +1,4 @@
-<h1 align="left">Hi there, I'm Hang Yao (hangui11)! 👋</h1>
+<h1 align="left">Hi there, I'm hangui11! 👋</h1>
 
 <p>
   <a href="https://leetcode.com/u/hangyao2002/">
