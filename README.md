@@ -50,9 +50,8 @@
 - 🎮 **[Steam Games MLOps Pipeline](https://github.com/hangui11/Steam-Games-Satisfaction)**: Architected an end-to-end data pipeline using DuckDB for complete data lineage and instant rollback capabilities.
 
 <br />
-
 ## 📈 **GitHub Stats:**
-<div>
-  <img alt='my stats' src="https://github-readme-stats.vercel.app/api?username=hangui11&show_icons=true&theme=shadow_blue"/>
-  <img alt='top langs' src='https://github-readme-stats.vercel.app/api/top-langs/?username=hangui11&layout=pie&theme=shadow_blue'/>
-</div>
+
+[![Hang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hangui11&show_icons=true&theme=shadow_blue)](https://github.com/hangui11)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hangui11&layout=compact&theme=shadow_blue)](https://github.com/hangui11)
